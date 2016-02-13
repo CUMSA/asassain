@@ -1,0 +1,124 @@
+[12-Sep-2013 21:21:21 America/Phoenix] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 41
+[12-Sep-2013 21:26:04 America/Phoenix] PHP Fatal error:  Class 'AuthComponent' not found in /home/cumsaorg/public_html/assassin/lib/Cake/Routing/Dispatcher.php on line 239
+[12-Sep-2013 21:26:06 America/Phoenix] PHP Fatal error:  Class 'AuthComponent' not found in /home/cumsaorg/public_html/assassin/lib/Cake/Routing/Dispatcher.php on line 239
+[12-Sep-2013 21:39:42 America/Phoenix] PHP Fatal error:  Call to a member function unauthenticated() on a non-object in /home/cumsaorg/public_html/assassin/lib/Cake/Controller/Component/AuthComponent.php on line 345
+[12-Sep-2013 21:39:44 America/Phoenix] PHP Fatal error:  Call to a member function unauthenticated() on a non-object in /home/cumsaorg/public_html/assassin/lib/Cake/Controller/Component/AuthComponent.php on line 345
+[12-Sep-2013 23:41:04 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 6
+[12-Sep-2013 23:41:24 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 6
+[12-Sep-2013 23:41:25 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 6
+[12-Sep-2013 23:41:47 America/Phoenix] PHP Parse error:  syntax error, unexpected '/' in /home/cumsaorg/public_html/assassin/app/View/Assassins/index.ctp on line 19
+[12-Sep-2013 23:52:45 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 21
+[13-Sep-2013 00:01:43 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 21
+[13-Sep-2013 00:01:54 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 21
+[13-Sep-2013 00:05:14 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 21
+[13-Sep-2013 00:46:06 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 21
+[13-Sep-2013 00:47:37 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 27
+[13-Sep-2013 00:52:41 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 27
+[13-Sep-2013 00:52:44 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 27
+[13-Sep-2013 00:52:54 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 27
+[13-Sep-2013 02:58:12 America/Phoenix] PHP Fatal error:  Call to a member function findAllByCrsid() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 27
+[13-Sep-2013 03:18:41 America/Phoenix] PHP Fatal error:  Call to a member function findByActive() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 17
+[13-Sep-2013 03:18:57 America/Phoenix] PHP Fatal error:  Call to a member function findByActive() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 17
+[14-Sep-2013 00:12:48 America/Phoenix] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 39
+[14-Sep-2013 00:13:20 America/Phoenix] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 39
+[14-Sep-2013 00:40:41 America/Phoenix] PHP Fatal error:  Class 'AppController' not found in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 3
+[14-Sep-2013 00:40:48 America/Phoenix] PHP Fatal error:  Class 'AppController' not found in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 3
+[14-Sep-2013 00:42:06 America/Phoenix] PHP Fatal error:  Class 'AppController' not found in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 3
+[14-Sep-2013 00:47:45 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 00:47:48 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 00:48:14 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 00:48:16 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 00:48:19 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 00:48:21 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 43
+[14-Sep-2013 01:58:55 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 14
+[14-Sep-2013 03:21:49 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 28
+[14-Sep-2013 03:24:39 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 28
+[14-Sep-2013 03:24:56 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 28
+[14-Sep-2013 03:27:58 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:29:36 America/Phoenix] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 36
+[14-Sep-2013 03:31:34 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:31:36 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:31:38 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:31:45 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:32:04 America/Phoenix] PHP Parse error:  syntax error, unexpected '(' in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:32:20 America/Phoenix] PHP Parse error:  syntax error, unexpected '"' in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 38
+[14-Sep-2013 03:34:13 America/Phoenix] PHP Fatal error:  Call to a member function findByActive() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Game.php on line 7
+[14-Sep-2013 03:39:34 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 40
+[14-Sep-2013 03:42:15 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 40
+[14-Sep-2013 05:43:51 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 28
+[14-Sep-2013 05:45:02 America/Phoenix] PHP Fatal error:  Call to a member function find() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 53
+[14-Sep-2013 05:52:24 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 30
+[14-Sep-2013 05:54:21 America/Phoenix] PHP Fatal error:  Call to a member function getCurrentMission() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 30
+[14-Sep-2013 06:27:00 America/Phoenix] PHP Fatal error:  Call to a member function getRandomAssassin() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 31
+[14-Sep-2013 06:27:29 America/Phoenix] PHP Fatal error:  Call to undefined method MissionsController::getRandomAssassin() in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 31
+[14-Sep-2013 06:27:57 America/Phoenix] PHP Fatal error:  Call to a member function getRandomAssassin() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 31
+[14-Sep-2013 06:33:30 America/Phoenix] PHP Fatal error:  Call to a member function user() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 47
+[14-Sep-2013 06:37:52 America/Phoenix] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 49
+[14-Sep-2013 06:43:24 America/Phoenix] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 51
+[14-Sep-2013 07:15:31 America/Phoenix] PHP Fatal error:  Call to undefined function get() in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 75
+[14-Sep-2013 07:25:17 America/Phoenix] PHP Parse error:  syntax error, unexpected ',' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 22
+[14-Sep-2013 23:22:47 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 60
+[14-Sep-2013 23:59:21 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/View/Themed/Cumsa/Layouts/default.ctp on line 25
+[14-Sep-2013 23:59:51 America/Phoenix] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/cumsaorg/public_html/assassin/app/View/Themed/Cumsa/Layouts/default.ctp on line 29
+[15-Sep-2013 00:11:43 America/Phoenix] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cumsaorg/public_html/assassin/app/View/Themed/Cumsa/Layouts/default.ctp on line 32
+[15-Sep-2013 00:11:59 America/Phoenix] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cumsaorg/public_html/assassin/app/View/Themed/Cumsa/Layouts/default.ctp on line 32
+[15-Sep-2013 00:12:17 America/Phoenix] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cumsaorg/public_html/assassin/app/View/Themed/Cumsa/Layouts/default.ctp on line 32
+[15-Sep-2013 01:12:15 America/Phoenix] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 29
+[15-Sep-2013 01:12:27 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 33
+[15-Sep-2013 01:12:50 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 32
+[15-Sep-2013 01:34:21 America/Phoenix] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 52
+[15-Sep-2013 01:34:49 America/Phoenix] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 62
+[15-Sep-2013 01:43:32 America/Phoenix] PHP Parse error:  syntax error, unexpected '[' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 55
+[15-Sep-2013 01:43:55 America/Phoenix] PHP Parse error:  syntax error, unexpected '[' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 55
+[15-Sep-2013 01:44:08 America/Phoenix] PHP Parse error:  syntax error, unexpected '{' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 55
+[15-Sep-2013 04:40:11 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:40:44 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:44:11 America/Phoenix] PHP Fatal error:  Call to undefined method AssassinsController::getActiveGameId() in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:45:46 America/Phoenix] PHP Fatal error:  Call to undefined method AssassinsController::getActiveGameId() in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:46:08 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:46:45 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:47:26 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:48:00 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:48:56 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:48:58 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 04:49:16 America/Phoenix] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AppController.php on line 63
+[15-Sep-2013 05:00:04 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 126
+[15-Sep-2013 06:29:49 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/View/Missions/complete.ctp on line 9
+[15-Sep-2013 06:57:24 America/Phoenix] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cumsaorg/public_html/assassin/app/View/Missions/index.ctp on line 12
+[15-Sep-2013 07:05:47 America/Phoenix] PHP Parse error:  syntax error, unexpected ':' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 102
+[15-Sep-2013 07:36:37 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 16
+[15-Sep-2013 07:54:49 America/Phoenix] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 206
+[15-Sep-2013 08:02:04 America/Phoenix] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 205
+[16-Sep-2013 21:18:06 America/Phoenix] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 221
+[16-Sep-2013 22:44:43 America/Phoenix] PHP Fatal error:  Call to a member function gm_create() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/GamesController.php on line 64
+[16-Sep-2013 23:02:59 America/Phoenix] PHP Fatal error:  Call to undefined method MissionsController::add() in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 88
+[16-Sep-2013 23:18:28 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/View/Games/gm_all.ctp on line 25
+[16-Sep-2013 23:20:19 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/View/Games/gm_all.ctp on line 28
+[17-Sep-2013 01:28:05 America/Phoenix] PHP Parse error:  syntax error, unexpected ')' in /home/cumsaorg/public_html/assassin/app/Controller/GamesController.php on line 31
+[17-Sep-2013 01:34:46 America/Phoenix] PHP Parse error:  syntax error, unexpected ')' in /home/cumsaorg/public_html/assassin/app/Controller/GamesController.php on line 43
+[17-Sep-2013 06:05:34 America/Phoenix] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 41
+[17-Sep-2013 06:06:02 America/Phoenix] PHP Fatal error:  Call to a member function user() on a non-object in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 41
+[17-Sep-2013 06:37:33 America/Phoenix] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 49
+[17-Sep-2013 06:38:09 America/Phoenix] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 57
+[17-Sep-2013 06:50:54 America/Phoenix] PHP Fatal error:  Call to undefined function getNextTarget() in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 55
+[17-Sep-2013 06:51:59 America/Phoenix] PHP Fatal error:  Call to undefined function getNextTargetId() in /home/cumsaorg/public_html/assassin/app/Model/Assassin.php on line 55
+[17-Sep-2013 06:54:04 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 310
+[17-Sep-2013 07:23:22 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 324
+[17-Sep-2013 07:28:32 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 314
+[17-Sep-2013 07:31:01 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 310
+[17-Sep-2013 07:36:41 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 305
+[17-Sep-2013 07:36:54 America/Phoenix] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 74
+[17-Sep-2013 07:37:41 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 0
+[17-Sep-2013 07:38:44 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 294
+[17-Sep-2013 07:41:52 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 334
+[17-Sep-2013 07:42:03 America/Phoenix] PHP Parse error:  syntax error, unexpected ';' in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 73
+[17-Sep-2013 07:42:49 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 330
+[17-Sep-2013 07:46:33 America/Phoenix] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/Debugger.php on line 294
+[31-Oct-2014 21:16:33 Europe/London] PHP Parse error:  syntax error, unexpected $end in /home/cumsaorg/public_html/assassin/app/Controller/GamesController.php on line 187
+[31-Oct-2014 21:16:59 Europe/London] PHP Parse error:  syntax error, unexpected $end in /home/cumsaorg/public_html/assassin/app/Controller/GamesController.php on line 187
+[31-Oct-2014 21:32:21 Europe/London] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 135
+[31-Oct-2014 21:32:24 Europe/London] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 135
+[31-Oct-2014 21:32:39 Europe/London] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 135
+[31-Oct-2014 21:38:54 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/cumsaorg/public_html/assassin/lib/Cake/Utility/String.php on line 237
+[31-Oct-2014 21:58:30 Europe/London] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/AssassinsController.php on line 97
+[31-Oct-2014 21:58:37 Europe/London] PHP Fatal error:  Call to a member function getActiveGameId() on a non-object in /home/cumsaorg/public_html/assassin/app/Controller/MissionsController.php on line 133
